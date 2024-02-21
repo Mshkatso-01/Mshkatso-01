@@ -7,9 +7,8 @@
 - 💬 Ask me about designing web pages.
 - ⚡ Fun fact: I am interested in personality types and enneagram
 ### Connect with me:
-![image](https://github.com/Mshkatso-01/Mshkatso-01/assets/123494264/b52179bd-940b-47e7-b96d-a82be158ef7c)
 https://www.linkedin.com/in/mishkat-suliman-586037227
-
+https://twitter.com/MishkatSuliman0
 <!--
 **Mshkatso-01/Mshkatso-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
