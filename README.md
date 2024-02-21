@@ -8,7 +8,13 @@
 - ⚡ Fun fact: I am interested in personality types and enneagram
 ### Connect with me:
 https://www.linkedin.com/in/mishkat-suliman-586037227
+
 https://twitter.com/MishkatSuliman0
+### Language and Tools:
+HTML
+CSS
+JAVASCRIPT
+C language
 <!--
 **Mshkatso-01/Mshkatso-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
