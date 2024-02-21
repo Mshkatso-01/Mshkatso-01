@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mishkat Suliman</h1>
 <h3 align="center">I'm a Developer, ALX student.</h3>
-<img align= "right" alt= "Coding" width = "400" src = "https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/1efcc5526ec7cd758b5537e84217b21c.gif"
+<img align= "right" alt= "Coding" width = "400" border-radius: 50% src = "https://cdn.dribbble.com/users/1428359/screenshots/4789906/media/1efcc5526ec7cd758b5537e84217b21c.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshkatso-01&label=Profile%20views&color=0e75b6&style=flat" alt="mshkatso-01" /> </p>
 
